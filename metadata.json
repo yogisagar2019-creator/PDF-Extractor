@@ -1,0 +1,6 @@
+{
+  "name": "Reasoning PDF Studio Auto",
+  "description": "Production-quality scanned Hindi reasoning practice PDF question extraction, handwriting/pen mark suppression, diagram isolation, verification, and 16:9 landscape educational PDF reconstruction studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
